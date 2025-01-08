@@ -67,6 +67,6 @@ In this part of the project i went over to Azure and created an inbound security
 <img src="https://i.imgur.com/ZHB0rXt.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-After creating the security rule, i went back into the Windows VM and pinged the linux VM using ping -t and eventually the request timed out because thei nbound traffic was blocked.
+After creating the security rule, i went back into the Windows VM and pinged the linux VM using ping -t and eventually the request timed out because the inbound traffic was blocked.
 </p>
 <br />
