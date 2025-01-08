@@ -58,7 +58,7 @@ I connected to the windows virtual machine using remote desktop. I then download
 <img src="https://i.imgur.com/bpPwnRH.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-In this part of the project i went over to Azure and created an inbound security rule. In the security rule i denied any inbounc traffic to the Linux VM and set a high priority.
+In this part of the project i went over to Azure and created an inbound security rule. In the security rule i denied any inbound traffic to the Linux VM and set a high priority.
 </p>
 <br />
 <p>
